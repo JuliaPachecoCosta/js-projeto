@@ -28,7 +28,7 @@ o menu mobile não abre e o formulário recarrega a página.
 [ok] 3.Alternar modo claro/escuro  
 [ok] 4.Animação do título  
 [ok] 5.Animação da seção home  
-[] 6.Animação da seções  
+[ok] 6.Animação da seções  
 [] 7.Botão de voltar ao topo  
 [] 8.Carrossel de projetos  
 [] 9.Animação da seção "Sobre mim"  
