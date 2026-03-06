@@ -27,3 +27,4 @@ window.addEventListener('scroll', () => {
         document.body.style.overflow = 'auto';
     }
 });
+
