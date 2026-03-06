@@ -25,7 +25,7 @@ o menu mobile não abre e o formulário recarrega a página.
 ## Lista de tarefas:
 [ok]1.Menu mobile  
 [ok] 2.Navegação Ativa  
-[] 3.Alternar modo claro/escuro  
+[ok] 3.Alternar modo claro/escuro  
 [] 4.Animação do título  
 [] 5.Animação da seção home  
 [] 6.Animação da seções  
