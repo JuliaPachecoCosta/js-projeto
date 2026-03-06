@@ -32,7 +32,7 @@ o menu mobile não abre e o formulário recarrega a página.
 [ok] 7.Botão de voltar ao topo  
 [ok] 8.Carrossel de projetos  
 [ok] 9. Formulário de contato
-[]10.Animação da seção "Sobre mim"  
+[ok]10.Animação da seção "Sobre mim"  
 
 
 ## 💻 Sobre o Codemaster
