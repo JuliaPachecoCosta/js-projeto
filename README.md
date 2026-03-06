@@ -1,6 +1,24 @@
 # codemaster
  <p align="center">
-  <img src="curriculo-front-end.pdf" alt="Preview do projeto Codemaster" width="100%">
+  <img src="Imagem 1 - Codemaster.png" alt="Preview do projeto Codemaster" width="100%">
+</p>
+ <p align="center">
+  <img src="Imagem 2 - Codemaster.png" alt="Preview do projeto Codemaster" width="100%">
+</p>
+ <p align="center">
+  <img src="Imagem 3 - Codemaster.png" alt="Preview do projeto Codemaster" width="100%">
+</p>
+ <p align="center">
+  <img src="Imagem 4 - Codemaster.png" alt="Preview do projeto Codemaster" width="100%">
+</p>
+ <p align="center">
+  <img src="Imagem 5 - Codemaster.png" alt="Preview do projeto Codemaster" width="100%">
+</p>
+ <p align="center">
+  <img src="Imagem 6 - Codemaster.png" alt="Preview do projeto Codemaster" width="100%">
+</p>
+ <p align="center">
+  <img src="Imagem 7 - Codemaster.png" alt="Preview do projeto Codemaster" width="100%">
 </p>
 
 ## Estado Inicial do projeto 
