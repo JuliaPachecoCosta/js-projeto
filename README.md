@@ -30,8 +30,9 @@ o menu mobile não abre e o formulário recarrega a página.
 [ok] 5.Animação da seção home  
 [ok] 6.Animação da seções  
 [ok] 7.Botão de voltar ao topo  
-[] 8.Carrossel de projetos  
-[] 9.Animação da seção "Sobre mim"  
+[ok] 8.Carrossel de projetos  
+[] 9. Formulário de contato
+[]10.Animação da seção "Sobre mim"  
 
 
 ## 💻 Sobre o Codemaster
